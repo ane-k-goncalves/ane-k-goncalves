@@ -105,6 +105,14 @@ Me chamo Ane Karine Gonçalves, tenho 24 anos. Atualmente, estou cursando Sistem
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Rails" 
+    title="Rails"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/rails-original.svg" 
+/>
 
 <br/>
 <br/>
